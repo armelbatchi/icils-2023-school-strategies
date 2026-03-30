@@ -16,7 +16,7 @@ R/
   07_fig4_roc.R           # Figure 4: ROC + calibration (AUC)
   08_fig5_forest.R        # Figure 5: Forest plot of system ORs
   09_fig6_heatmap.R       # Figure 6: Heatmap of prevalence by system x quartile
-  11_render_all.R         # Master script to run everything
+  10_render_all.R         # Master script to run everything
                           # ICILS data downloaded here (gitignored)
                           # Figures saved here
 ```
