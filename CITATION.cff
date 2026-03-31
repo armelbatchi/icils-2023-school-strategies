@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ICILS 2023 school strategies"
+version: "0.1"
+type: software
+authors:
+  - given-names: "Armel Landry"
+    family-names: "Batchi-Bouyou"
+    affiliation: "Washington University in St. Louis"
+    orcid: "https://orcid.org/0000-0002-7323-9894"
+date-released: 2026-03-31
+url: "https://github.com/armelbatchi/icils-2023-school-strategies"
